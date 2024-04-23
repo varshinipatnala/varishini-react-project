@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/varishini-react-project/static/css/main.40b1c1dc.css",
+    "main.js": "/varishini-react-project/static/js/main.702dfd68.js",
+    "static/js/453.8de22ba9.chunk.js": "/varishini-react-project/static/js/453.8de22ba9.chunk.js",
+    "static/media/Donut.gif": "/varishini-react-project/static/media/Donut.2a06c298348d1d699222.gif",
+    "static/media/sales.gif": "/varishini-react-project/static/media/sales.a226d2ba8a6bcca37ebc.gif",
+    "static/media/men2.jpg": "/varishini-react-project/static/media/men2.bf420f1fb1a554bc4e0e.jpg",
+    "static/media/html1.jpg": "/varishini-react-project/static/media/html1.c9d246a66d809936dc1f.jpg",
+    "static/media/pie.png": "/varishini-react-project/static/media/pie.8e04fe8448dc0c58e2e5.png",
+    "static/media/women1.jpg": "/varishini-react-project/static/media/women1.35dc2154455fb41fd6d5.jpg",
+    "static/media/women2.jpg": "/varishini-react-project/static/media/women2.39e2082ca411661420ff.jpg",
+    "static/media/working.jpg": "/varishini-react-project/static/media/working.18c4d83a3d014908c02c.jpg",
+    "static/media/person.png": "/varishini-react-project/static/media/person.689e6e6d91aa9ed53b6c.png",
+    "static/media/graph1.jpg": "/varishini-react-project/static/media/graph1.aaf1adb91c723cc23184.jpg",
+    "static/media/ex3.png": "/varishini-react-project/static/media/ex3.f588c45e9190d34616ef.png",
+    "static/media/html2.jpg": "/varishini-react-project/static/media/html2.501bd3902d4ad62d92b3.jpg",
+    "static/media/map.jpg": "/varishini-react-project/static/media/map.3e2a6d2950a12409c0f0.jpg",
+    "static/media/html3.jpg": "/varishini-react-project/static/media/html3.26c893f8cb9dca82d056.jpg",
+    "static/media/html.jpg": "/varishini-react-project/static/media/html.4350fd5aabe00a26f302.jpg",
+    "static/media/html4.jpg": "/varishini-react-project/static/media/html4.6fc58325bd092c99092f.jpg",
+    "static/media/pic3.jpg": "/varishini-react-project/static/media/pic3.c4cde0fe805f13e6b8ff.jpg",
+    "static/media/pic1.jpg": "/varishini-react-project/static/media/pic1.cbe8800dbf3b0d7f4ca5.jpg",
+    "static/media/download.png": "/varishini-react-project/static/media/download.6200b0393cd5f90b682d.png",
+    "static/media/calender.jpg": "/varishini-react-project/static/media/calender.8028d423cc6b7fe798e1.jpg",
+    "static/media/pic2.jpg": "/varishini-react-project/static/media/pic2.0a47eefdfa167c57e93f.jpg",
+    "static/media/html5.jpg": "/varishini-react-project/static/media/html5.b034c7c12c5edc916f41.jpg",
+    "static/media/pic4.jpg": "/varishini-react-project/static/media/pic4.e43e60a70639a939f664.jpg",
+    "static/media/ex2.jpg": "/varishini-react-project/static/media/ex2.0557085a9c147bb5f07e.jpg",
+    "static/media/ex1.jpg": "/varishini-react-project/static/media/ex1.a4281de4c3f06ed6dbde.jpg",
+    "static/media/graph2.jpg": "/varishini-react-project/static/media/graph2.dfded7b8715d07a7c508.jpg",
+    "static/media/area.jpg": "/varishini-react-project/static/media/area.8ea9c9b639cab70e6efa.jpg",
+    "index.html": "/varishini-react-project/index.html",
+    "main.40b1c1dc.css.map": "/varishini-react-project/static/css/main.40b1c1dc.css.map",
+    "main.702dfd68.js.map": "/varishini-react-project/static/js/main.702dfd68.js.map",
+    "453.8de22ba9.chunk.js.map": "/varishini-react-project/static/js/453.8de22ba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b1c1dc.css",
+    "static/js/main.702dfd68.js"
+  ]
+}
