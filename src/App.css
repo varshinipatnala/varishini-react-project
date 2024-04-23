@@ -1,0 +1,132 @@
+.one{
+    background-color: #004369;
+    height:1400px;
+    width:400px;
+    color:white;
+}
+
+.child1{
+    height:180px;
+    width:200px;
+    background-color:white;
+    box-shadow:10px 10px 10px 10px black;
+   }
+   .child1:hover{
+    background-color:#FB8DA0 ;
+    color:white;
+   }
+   .three{
+    background-color: white;
+    width:690px;
+    margin-left:10px;
+    box-shadow:10px 10px 10px 10px black;
+   }
+   .four{
+    background-color: white;
+    height:510px;
+    margin-left:20px;
+    box-shadow:10px 10px 10px 10px black;
+   }
+   .five{
+    box-shadow:10px 10px 10px 10px black;
+   }
+   .col1{
+ background-color:#340744 ;
+ height: 150px;
+ width:230px;
+ color:white;
+
+   }
+   .col1:hover{
+    transform: scale(1.2);
+   }
+   .col2{
+    background-color:#E34234 ;
+    color:white;
+    height: 150px;
+ width:230px;
+ 
+   }
+   .col2:hover{
+    transform: scale(1.2);
+   }
+   .col3{
+    background-color:#08313A ;
+    color:white;
+    height: 150px;
+ width:230px;
+ 
+   }
+   .col3:hover{
+    transform: scale(1.2);
+   }
+   .col4{
+    background-color:#F4B9B8 ;
+    color:white;
+    height: 150px;
+ width:230px;
+ }
+ .col4:hover{
+  transform: scale(1.2);
+ }
+ .main{
+    display:flex;
+    background-color: whitesmoke;
+    height:460px;
+    width:600px;
+  position:absolute;
+ }
+ .main1{
+    position:relative;
+   }
+   .six{
+    background-image: linear-gradient(to bottom right,#0E86D4,#5885AF,#7EC8E3);
+    height:300px;
+    width:100%;
+   }
+   .overlap{
+    position:absolute;
+   }
+   .overlap1{
+    margin-top:250px;
+    position:relative;
+    background-color: white;
+    border-radius: 40px;
+   }
+   .a:hover{
+    transform:scale(1.1);
+    }
+    .b{
+      background-image: linear-gradient(to bottom right,#603F8B,#613659,#C197D2);
+      height:330px;
+      width:150px;
+      border-radius:35px;
+      margin-left: 50px;
+    }
+    .c{
+      background-image: linear-gradient(to bottom right,#01949A,#A4E8E0,#4CD7D0);
+      height:330px;
+      width:150px;
+      border-radius:35px;
+      margin-left: 70px; 
+    }
+    .d{
+      background-image: linear-gradient(to bottom right,#DF362D,#FF4500,#FF8300);
+      height:330px;
+      width:150px;
+      border-radius:35px;
+      margin-left: 70px; 
+    }
+    .eight{
+      display: flex;
+    }
+    .hover:hover{
+      transform:scale(1.1);
+      background-color: #7EC8E3;
+    }
+   
+    li:hover{
+      color:black;
+      background-color:white;
+
+    }
