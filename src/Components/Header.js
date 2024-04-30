@@ -14,7 +14,7 @@ function Header() {
             <h3><center>User Name</center></h3><br/>
             <h6 style={{marginLeft:'7px'}}><center>Username@company.com</center></h6><br/><br/><br/>
             
-            <Link to='/' style={{textDecoration:'none',color:'white'}}><li style={{listStyleType:'none'}}><h4><HomeIcon style={{marginLeft:'20px'}}/>Home</h4></li></Link><br/><br/><br/><br/>
+            <Link to='/varishini-react-project' style={{textDecoration:'none',color:'white'}}><li style={{listStyleType:'none'}}><h4><HomeIcon style={{marginLeft:'20px'}}/>Home</h4></li></Link><br/><br/><br/><br/>
            
             
             <Link to='/file' style={{textDecoration:'none',color:'white'}}><li style={{listStyleType:'none'}}><h4><InsertDriveFileIcon style={{marginLeft:'20px'}}/>File</h4></li></Link><br/><br/><br/><br/>

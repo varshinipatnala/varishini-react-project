@@ -25,7 +25,7 @@ function App() {
         </Col>
         <Col sm={10} style={{backgroundColor:"#68BBE3"}}>
            <Routes>
-           <Route path='/'exact Component={Home}/>
+           <Route path='/varishini-react-project'exact Component={Home}/>
            <Route path='/file'exact Component={File}/>
            <Route path='/tasks'exact Component={Tasks}/>
            <Route path='/applications'exact Component={Applications}/>
